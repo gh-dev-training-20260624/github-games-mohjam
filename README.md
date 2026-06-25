@@ -1,6 +1,8 @@
-## Welcome to GitHub Games
+## Welcome to GitHub Games 
 
-A project based learning activity for people who are getting started with Git and GitHub.
+Emoji's not working!!!!!
+
+A project based learning activity for people who are getting started with Git and GitHub. 
 
 You can play the game at: [https://gh-dev-training-20260624.github.io/github-games-mohjam/]
 
